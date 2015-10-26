@@ -1,5 +1,5 @@
 source ~/.bash_env/.git-completion.bash 
-source ~/.bash_env//.git-prompt.sh
+source ~/.bash_env/.git-prompt.sh
 
 export CLICOLOR=1
 export LSCOLORS=Gxfxcxdxbxegedabagacad
