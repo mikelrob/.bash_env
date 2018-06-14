@@ -1,0 +1,8 @@
+[alias]
+	ss = status
+	lol = log --oneline --graph --decorate
+	la = log --oneline --graph --decorate --remotes --branches --tags
+	count = rev-list HEAD --count
+[user]
+	name = Mike Robinson
+	email = mike@securebroadcast.com
