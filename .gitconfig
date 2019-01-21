@@ -5,4 +5,4 @@
 	count = rev-list HEAD --count
 [user]
 	name = Mike Robinson
-	email = mike@securebroadcast.com
+	email = mike.robinson@slicelife.com
