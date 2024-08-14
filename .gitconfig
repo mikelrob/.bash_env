@@ -3,6 +3,7 @@
 	lol = log --oneline --graph --decorate
 	la = log --oneline --graph --decorate --remotes --branches --tags
 	count = rev-list HEAD --count
+	co = checkout
 [user]
 	name = Mike Robinson
 	email = mike.robinson@slicelife.com
